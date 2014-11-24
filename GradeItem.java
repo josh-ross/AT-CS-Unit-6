@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Represents a grade item.
  * 
  * @author (Josh Ross) 
- * @version (a version number or a date)
+ * @version (date)
  */
 public class GradeItem
 {
